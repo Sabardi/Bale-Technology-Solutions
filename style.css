@@ -2280,6 +2280,33 @@ body,
   font-size: 25px;
 }
 
+/* hubungi kami */
+.contactkami {
+  background-color: #ff5521;
+  padding: 30px 25px; 
+  border-radius: 12px;
+  margin-top: 30px; 
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+}
+.contactkami h3 {
+  color: #fff; margin-bottom: 15px;
+}
+
+.contactkami p {
+  color: #fff; margin-bottom: 20px;
+}
+
+.contactkami a {
+  background: #001d4d;
+  color: #fff; 
+  padding: 12px 28px; 
+  border-radius: 6px; 
+  text-decoration: none; 
+  font-weight: bold; 
+  margin-right: 10px;
+}
+/* hubungi kami */
+
 /* Nice Select CSS */
 .nice-select {
   -webkit-tap-highlight-color: transparent;
